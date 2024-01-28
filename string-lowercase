@@ -1,0 +1,5 @@
+text = "Python is awesome"
+lower = text.lower()
+upper = text.upper()
+print("Uppercase: " + upper)
+print("Lowercase: " + lower)
